@@ -1,5 +1,9 @@
 # Exercise-04c-Enemies
 
+MSCH-C220
+
+This is a simple 2D platformer with enemies, coins, and multiple levels designed on a tilemap.
+
 ## Implementation
 
 ## References
@@ -12,6 +16,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Will maybe program more enemies and design more levels
 
 ## Created by
-Nathan Mishler
+Samuel Styer
