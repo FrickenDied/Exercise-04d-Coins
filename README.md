@@ -16,7 +16,10 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
-Will maybe program more enemies and design more levels
+Will design several more levels in the future.
+
+## Additional Notes
+I will be adding more to this I am just turning it in now because I know it's a passing grade and I'm already way behind.
 
 ## Created by
 Samuel Styer
