@@ -1,4 +1,6 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Coins
+
+MSCH-C220
 
 ## Implementation
 
@@ -12,6 +14,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+More levels?
 
 ## Created by
-Nathan Mishler
+Samuel Styer
